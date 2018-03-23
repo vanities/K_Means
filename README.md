@@ -3,4 +3,4 @@ k-means clustering for iris data and cancer data using variable clusters partiti
 
 K-means to work on the iris data set problem, with an additional different set using a higher dimensional cancer set.
 
-See readme.pdf for more details
+See report.pdf for more details
