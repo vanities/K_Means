@@ -1,11 +1,6 @@
 /*
 
 	Programmer:	Adam Mischke
-	Professor:	Joshua L. Phillips
-	Program:	Unsupervised Learning - Project 4
-	Started:	Sunday,	Nov. 19 at 19:44:45
-	Date Due:	Tuesday, Nov. 14 by 10:00pm
-	Date Finished: Monday, Nov. 13 at 17:30:00
 
 	K means Algorithm:
 	1. Given a set of N training examples each consisting of a vector of continuous attributes, 
